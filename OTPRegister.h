@@ -32,5 +32,5 @@ public:
     int countPatient();
 };
 
-#endif /* OTPREGISTER_H */
+#endif /* OTPREGISTER_H */ 
 
