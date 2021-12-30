@@ -1,5 +1,5 @@
 --I used the database from:
---https://drive.google.com/drive/folders/1fVlBWNuSw774F0bocQAoxKd24YwTQcwh?usp=sharing
+--songs.db https://drive.google.com/drive/folders/1fVlBWNuSw774F0bocQAoxKd24YwTQcwh?usp=sharing
 
 --write a SQL query to list the names of all songs in the database
 SELECT name FROM songs;
