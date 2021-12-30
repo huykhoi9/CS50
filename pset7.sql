@@ -1,3 +1,6 @@
+-- I used the database from:
+-- movies.db in https://drive.google.com/drive/folders/1fVlBWNuSw774F0bocQAoxKd24YwTQcwh?usp=sharing
+
 --write a SQL query to list the titles of all movies released in 2008
 SELECT title FROM movies WHERE year = 2008;
 
