@@ -1,5 +1,5 @@
 # CS50
-These are some projects that I have done in CS50 (Havard Univeristy's Introduction to Computer Science course)
+These are some projects that I have done in CS50 (Havard Univeristy's Computer Science course)
   1. Filter 
   
   I implemented a C program that uses filters to BMP images. Specifically, i worked on the filter.c program which applies many filters, such as grayscale, reflect, blur, and edges to the pictures and each filter is a function in a program. My goal was to program these functions to edit the 2D array of pixels so that desired filter is applied. 
